@@ -1,4 +1,10 @@
-cosmic-app-library (0.1.0) UNRELEASED; urgency=medium
+cosmic-app-library (0.1.0ubuntu1) noble; urgency=medium
+
+  * Update to noble
+
+ -- Aaron Honeycutt <aaron@system76.com>  Fri, 22 Mar 2024 14:59:46 -0600
+
+cosmic-app-library (0.1.0) jammy; urgency=medium
 
   * Initial release.
 
